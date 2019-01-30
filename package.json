@@ -1,0 +1,20 @@
+{
+  "name": "node-express-test",
+  "version": "1.0.0",
+  "description": "App to verify the deployment for and node and express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "deployment"
+  ],
+  "author": "Bill Berger",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
