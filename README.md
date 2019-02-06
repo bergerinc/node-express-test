@@ -19,16 +19,16 @@ Alternatively, you can use docker. A Dockerfile is included in the repo.
 1. Clone repo 
 2. Change directory to the new node-express-test directory
 3. Install docker on you system if it doesn't exist https://www.docker.com/get-started
-3. Run docker build -t node-express-test:v1 .
-4. Run docker run -d -p [PORT]:3000 --name node-express-test node-express-test:v1 ([PORT]] can be any available port ie: 8080)
+3. Run `docker build -t node-express-test:v1 .`
+4. Run `docker run -d -p [PORT]:3000 --name node-express-test node-express-test:v1` ([PORT]] can be any available port ie: 8080)
 5. Navigate in your browser to http://localhost:[PORT]
 
 ### Example
 ```javascript 
-git clone https://github.com/bergerinc/node-express-test.git
-cd node-express-test
-npm i
-npm start
+`git clone https://github.com/bergerinc/node-express-test.git`
+`cd node-express-test`
+`npm i`
+`npm start`
 ```
 
 
