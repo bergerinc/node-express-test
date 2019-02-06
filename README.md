@@ -25,10 +25,10 @@ Alternatively, you can use docker. A Dockerfile is included in the repo.
 
 ### Example
 ```javascript 
-`git clone https://github.com/bergerinc/node-express-test.git`
-`cd node-express-test`
-`npm i`
-`npm start`
+git clone https://github.com/bergerinc/node-express-test.git
+cd node-express-test
+npm i
+npm start
 ```
 
 
