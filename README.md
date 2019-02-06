@@ -21,7 +21,7 @@ Alternatively, you can use docker. A Dockerfile is included in the repo.
 3. Install docker on you system if it doesn't exist https://www.docker.com/get-started
 3. Run `docker build -t node-express-test:v1 .`
 4. Run `docker run -d -p [PORT]:3000 --name node-express-test node-express-test:v1`
-5. Navigate in your browser to http://localhost:[PORT]
+5. Navigate in your browser to http://localhost:[PORT] 
 ***[PORT] should be replaced by any available port (ie: 8080)
 
 ### Example
