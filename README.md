@@ -13,7 +13,7 @@ I wanted a quick way to validate a IISNode module installation for windows boxes
 4. Run `npm start` to launch the app
 6. Navigate in your browser to http://localhost:3000
 
-####Docker
+#### Docker
 Alternatively, you can use docker. A Dockerfile is included in the repo.
 
 1. Clone repo 
